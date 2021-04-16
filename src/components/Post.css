@@ -1,0 +1,22 @@
+.Post {
+	list-style: none;
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	padding-bottom: 4px;
+}
+.Post .Email {
+	width: 30%;
+}
+.UserNumber {
+	width: 8%;
+}
+.UserName {
+	width: 20%;
+}
+.Phone {
+	width: 20%;
+}
+.Website {
+	width: 12%;
+}
